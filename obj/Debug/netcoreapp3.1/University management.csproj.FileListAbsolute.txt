@@ -1,0 +1,34 @@
+C:\Users\waryr\source\repos\University management\University management\bin\Debug\netcoreapp3.1\University management.exe
+C:\Users\waryr\source\repos\University management\University management\bin\Debug\netcoreapp3.1\University management.deps.json
+C:\Users\waryr\source\repos\University management\University management\bin\Debug\netcoreapp3.1\University management.runtimeconfig.json
+C:\Users\waryr\source\repos\University management\University management\bin\Debug\netcoreapp3.1\University management.runtimeconfig.dev.json
+C:\Users\waryr\source\repos\University management\University management\bin\Debug\netcoreapp3.1\University management.dll
+C:\Users\waryr\source\repos\University management\University management\bin\Debug\netcoreapp3.1\University management.pdb
+C:\Users\waryr\source\repos\University management\University management\obj\Debug\netcoreapp3.1\University management.csproj.AssemblyReference.cache
+C:\Users\waryr\source\repos\University management\University management\obj\Debug\netcoreapp3.1\University_management.Properties.Resources.resources
+C:\Users\waryr\source\repos\University management\University management\obj\Debug\netcoreapp3.1\University management.csproj.GenerateResource.cache
+C:\Users\waryr\source\repos\University management\University management\obj\Debug\netcoreapp3.1\University management.AssemblyInfoInputs.cache
+C:\Users\waryr\source\repos\University management\University management\obj\Debug\netcoreapp3.1\University management.AssemblyInfo.cs
+C:\Users\waryr\source\repos\University management\University management\obj\Debug\netcoreapp3.1\University management.csproj.CoreCompileInputs.cache
+C:\Users\waryr\source\repos\University management\University management\obj\Debug\netcoreapp3.1\University management.dll
+C:\Users\waryr\source\repos\University management\University management\obj\Debug\netcoreapp3.1\University management.pdb
+C:\Users\waryr\source\repos\University management\University management\obj\Debug\netcoreapp3.1\University management.genruntimeconfig.cache
+C:\Users\waryr\source\repos\University management\University management\obj\Debug\netcoreapp3.1\University_management.TJAU.resources
+C:\Users\waryr\source\repos\University management\University management\obj\Debug\netcoreapp3.1\University_management.Home.resources
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\bin\Debug\netcoreapp3.1\University management.exe
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\bin\Debug\netcoreapp3.1\University management.deps.json
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\bin\Debug\netcoreapp3.1\University management.runtimeconfig.json
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\bin\Debug\netcoreapp3.1\University management.runtimeconfig.dev.json
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\bin\Debug\netcoreapp3.1\University management.dll
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\bin\Debug\netcoreapp3.1\University management.pdb
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\obj\Debug\netcoreapp3.1\University management.csproj.AssemblyReference.cache
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\obj\Debug\netcoreapp3.1\University_management.Home.resources
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\obj\Debug\netcoreapp3.1\University_management.Properties.Resources.resources
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\obj\Debug\netcoreapp3.1\University_management.TJAU.resources
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\obj\Debug\netcoreapp3.1\University management.csproj.GenerateResource.cache
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\obj\Debug\netcoreapp3.1\University management.AssemblyInfoInputs.cache
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\obj\Debug\netcoreapp3.1\University management.AssemblyInfo.cs
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\obj\Debug\netcoreapp3.1\University management.csproj.CoreCompileInputs.cache
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\obj\Debug\netcoreapp3.1\University management.dll
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\obj\Debug\netcoreapp3.1\University management.pdb
+C:\Users\Wary Hossain Rabby\OneDrive\Desktop\Windows Programming Exam\TJAU Student Management System\University management\obj\Debug\netcoreapp3.1\University management.genruntimeconfig.cache
